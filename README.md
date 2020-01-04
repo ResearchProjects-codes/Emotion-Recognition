@@ -1,2 +1,2 @@
 # Emotion-Recognition
-A ML model Fake News detection
+A ML model for emotion recognition
